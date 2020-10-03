@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm KohimaNayagato</h1>
-<h3 align="center">I'm a fullstack developer from England</h3>
+<h1 align="left">Hi 👋, I'm KohimaNayagato</h1>
+<h3 align="left">I'm a fullstack developer from England</h3>
 
 - 🔭 I’m currently working on [Odobenus](https://github.com/KohimaNayagato/Odobenus)
 
