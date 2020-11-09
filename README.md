@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm KohimaNayagato</h1>
 <h3 align="left">I'm a developer from England</h3>
 
-- 🔭 I’m currently working on [Terminal](https://kohimanayagato.github.io/terminal)
+- 🔭 I’m currently working on [Serenity](https://github.com/kohimanayagato/serenity)
 
 - 🌱 I’m currently learning **Kotlin**
 
