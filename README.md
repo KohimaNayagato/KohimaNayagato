@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm KohimaNayagato</h1>
 <h3 align="left">I'm a developer from England</h3>
 
+![KohimaNayagato's github stats](https://github-readme-stats.vercel.app/api?username=KohimaNayagato)
+
 - 🔭 I’m currently working on [Serenity](https://github.com/kohimanayagato/serenity)
 
 - 🌱 I’m currently learning **Kotlin**
